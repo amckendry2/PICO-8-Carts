@@ -1,5 +1,5 @@
 # github-carts
-pico-8 carts in various states of completion
+PICO-8 carts in various states of completion
 
 Playable games:
 
