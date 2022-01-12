@@ -3,8 +3,11 @@ PICO-8 carts in various states of completion
 
 ### Folders:
 "big games" -> larger-scale carts, complete or in active development
+
 "tweetcarts" -> carts in 280 characters or less
+
 "creative coding jams" -> carts created in approximately two hours, based on prompts from Recurse Center's creative coding meetups
+
 "jam games" -> carts created for various game jams
 
 ### Playable games:
