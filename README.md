@@ -2,7 +2,9 @@
 PICO-8 carts in various states of completion
 
 ### Folders:
-"Big Games" -> 
+"big games" -> larger-scale games, complete or in active development
+"tweetcarts" -> carts in 280 characters or less
+"creative coding jams
 
 ### Playable games:
 
